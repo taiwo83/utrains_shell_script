@@ -6,3 +6,4 @@
 ## ---------- script that display hello word in the screen -----------------
 
 echo "Yello Word !"
+echo "We are learning scripting"
